@@ -1,1 +1,1 @@
-Systen
+System.debug("Hello");
