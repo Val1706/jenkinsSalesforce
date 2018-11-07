@@ -1,2 +1,0 @@
-# jenkinsSalesforce
-Test
